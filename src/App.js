@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Avatar avatar={data.avatar}/>
-      <About name={data.name} aabout={data.about}/>
+      <About name={data.name} about={data.about}/>
       <Social social={data.social}/>
       <Projects />
     </div>

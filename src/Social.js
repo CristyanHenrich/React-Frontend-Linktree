@@ -3,7 +3,7 @@ export function Social(props) {
       <div className="social">
        {props.social.map((item) => (
         <a
-            class={`button button-${item.class}"`}
+            class={`button button-${item.class}`}
             href={item.url}
             title={item.name}
         >
