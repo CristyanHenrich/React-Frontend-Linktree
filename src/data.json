@@ -1,0 +1,31 @@
+{
+    "avatar": "https://avatars.githubusercontent.com/u/80925110?s=400&u=e7a6a82db8c9a0da8fdbe33f7983593756946ab8&v=4",
+    "name": "Cristyan Henrich",
+    "about": "Velit elit adipisicing nulla laborum eu incididunt ad anim sunt minim labore magna.",
+    "social": [
+        {
+            "name": "Website",
+            "url": "https://www.syerprograms.com.br",
+            "icon": "https://simpleicons.org/icons/firebase.svg",
+            "class": "website"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/cristyan-henrich",
+            "icon": "https://simpleicons.org/icons/linkedin.svg",
+            "class": "linkedin"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/cristyan_henrich_dev",
+            "icon": "https://simpleicons.org/icons/instagram.svg",
+            "class": "instagram"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/CristyanHenrich",
+            "icon": "https://simpleicons.org/icons/github.svg",
+            "class": "github"
+        }
+    ]
+}

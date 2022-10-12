@@ -5,6 +5,63 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #292929;
+  color: #fff;
+}
+
+.App {
+  padding: 20px;
+  margin: 30px auto;
+  text-align: center;
+  max-width: 400px;
+}
+
+.about h1 {
+  font-size: 48px;
+}
+
+.about h2 {
+  font-size: 24px;
+}
+
+.avatar img {
+  border-radius: 100%;
+  width: 100px;
+}
+
+.button img {
+  
+}
+
+.project:hover,
+.button:hover {
+  filter: brightness(90%);
+  transform: scale(1.05);
+}
+
+.button-twitter {
+  color: #fff;
+  background-color: #1da1f2;
+}
+
+.button-github {
+  color: #fff;
+  background-color: #000;
+}
+
+.button-web {
+  color: #fff;
+  background-color: #000;
+}
+
+.button-instagram {
+  color: #fff;
+  background-image: linear-gradient(-135deg, #1400c8, #b900b4, #f50000);
+}
+
+.button-linkedin {
+  color: #fff;
+  background-color: #0077b5;
 }
 
 code {
